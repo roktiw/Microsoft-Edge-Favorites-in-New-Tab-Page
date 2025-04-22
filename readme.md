@@ -1,4 +1,4 @@
-# Microsoft Edge Favorites in New Tab Page
+# Always Open Favorites in New Tab for Microsoft Edge
 
 🚀 **Microsoft Edge Favorites in New Tab Page** is a lightweight Microsoft Edge extension that sets the new tab page (`edge://newtab`) to automatically open `edge://favorites/`. This allows instant access to your bookmarks without additional clicks.
 
@@ -18,11 +18,13 @@ Edge Favorites New Tab helps you stay focused and productive by turning your new
 ---
 
 ## 📦 Installation
-1.[ Download .zip](https://github.com/roktiw/Microsoft-Edge-Favorites-in-New-Tab-Page/releases/download/open-favorites-in-new-tab-for-edge-v1-1/Open.Favorites.in.New.Tab.for.Microsoft.Edge.zip)
-2. Open Microsoft Edge and in address bar type ```edge://extensions/```
-3. Enable **Developer Mode** on the left
-4. Click **Load Unpacked** in and select the folder with the extension
-Done! Now Ctrl + T will open edge://favorites/ 🎯
+1. [ Download .zip](https://github.com/roktiw/Microsoft-Edge-Favorites-in-New-Tab-Page/releases/download/open-favorites-in-new-tab-for-edge-v1-1/Open.Favorites.in.New.Tab.for.Microsoft.Edge.zip)
+2. Extract .zip
+3. Open Microsoft Edge and in address bar type ```edge://extensions/```
+4. Enable **Developer Mode** on the left
+5. Click **Load Unpacked** in and select the folder with the unpacketd .zip with extension
+
+🎯 Done! Now Ctrl + T or clicinkg New Tab wit mouse will always open Favorites in New Tab!
 ![image](https://github.com/user-attachments/assets/94ff793a-0cc5-4d61-b68d-c07b0e68c040)
 
 ---
@@ -43,5 +45,4 @@ Done! Now Ctrl + T will open edge://favorites/ 🎯
 - **Publishing in the Edge Add-ons Store**
 
 ---
-
-
+© [Wiktor Świątkowski](https://github.com/roktiw) 2025
